@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @astit103
+- 👋 Hi, I’m Adnane @astit103
 - 👀 I’m interested in Django
-- 🌱 I’m currently learning MERN
+- 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on interesting NodeJS and React projects
 - 📫 How to reach me astit103@gmail.com
 
